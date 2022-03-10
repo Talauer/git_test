@@ -1,0 +1,2 @@
+my first GitHup exersice on The Odin Project
+hello Odin!
